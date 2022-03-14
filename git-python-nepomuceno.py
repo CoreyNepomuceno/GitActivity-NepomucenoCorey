@@ -9,3 +9,13 @@ print("Marinduque State College")
 print("BS Information Technology")
 
 print("2-C")
+
+print("Gaming")
+
+print("Basketball")
+
+print("Boxing")
+
+print("Gym")
+
+print("Eating")
