@@ -1,5 +1,11 @@
-print ("Corey Taylor O. Nepomuceno")
+print("Corey Taylor O. Nepomuceno")
 
-print ("San Miguel, Boac, Marinduque")
+print("San Miguel, Boac, Marinduque")
 
-print ("March 17, 2002")
+print("March 17, 2002")
+
+print("Marinduque State College")
+
+print("BS Information Technology")
+
+print("2-C")
